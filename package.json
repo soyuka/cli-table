@@ -1,4 +1,4 @@
-{   "name": "cli-table"
+{   "name": "pm2-cli-table-fork"
   , "description": "Pretty unicode tables for the CLI"
   , "version": "0.3.1"
   , "author": "Guillermo Rauch <guillermo@learnboost.com>"
